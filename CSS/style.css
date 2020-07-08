@@ -1,0 +1,54 @@
+
+/* Comments in css */
+
+/* Style for H1 */
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    color: aqua;
+}
+
+/* Style for P*/
+p {
+    font-family: 'Times New Roman', Times, serif;
+  }
+
+/* .SOMELINK: links to class variables*/
+/* .In this example: <p class="Link_specific_HTML_elements"> */
+
+.Link_specific_HTML_elements{
+    font-size: larger; color: brown;
+}
+
+
+/* #SOMELINK: links to id variable*/
+
+#Footer_id{
+    font-family: 'Courier New', Courier, monospace;
+    color: aqua;
+}
+
+/* class variable link*/
+
+.title {
+    color:pink;
+  }
+  
+/* class variable link*/
+
+.cursive {
+    font-family: cursive;
+  }
+
+/* class variable link*/
+.capitalize {
+    text-transform: capitalize;
+}
+/* class variable link*/
+h5.destination{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* class variable link*/
+.Nested li{
+    color: seagreen;
+}
